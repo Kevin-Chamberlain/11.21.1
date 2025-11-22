@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "fun.h"
+#include "fun.c"
 int main() {
     char str[80];
     printf("Enter a string:(less than 80 letters) ");

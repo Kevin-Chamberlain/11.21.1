@@ -1,0 +1,1 @@
+void reverse(const char* str, char* rts);
